@@ -1,0 +1,11 @@
+{
+  "name": "big.js-ott",
+  "version": "1.0.0",
+  "description": "Big.js features overview",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Cacheta",
+  "license": "ISC"
+}

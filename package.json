@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "Big.js features overview",
   "main": "example.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Daniel Cacheta",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "big.js": "^6.2.1"
+  }
 }
